@@ -68,4 +68,5 @@ Steps:
  
 - Collect Telemetry on Splunk for analysis.
 
-- 
+![success Brute Force Attack](https://github.com/user-attachments/assets/1704b143-1061-4499-8fc3-ff19780d43e8)
+
