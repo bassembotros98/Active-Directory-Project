@@ -70,3 +70,7 @@ Steps:
 
 ![success Brute Force Attack](https://github.com/user-attachments/assets/1704b143-1061-4499-8fc3-ff19780d43e8)
 
+
+
+## Conclusion
+This project successfully set up an Active Directory environment, integrated monitoring tools, and performed security testing. The telemetry collected through Splunk provides valuable insights into the security posture of the environment.
