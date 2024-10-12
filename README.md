@@ -44,3 +44,28 @@ Conclusion
 - Install Sysmon and Olaf Sysmon Config on both Windows machines.
 
 - Install Splunk on Ubuntu (Splunk Server).
+
+## Part 3: Active Directory Configuration
+Steps:
+- Install & Configure Active Directory on Windows Server.
+- Promote the server to a domain controller.
+- Create Groups and Users:
+ 
+   Groups: IT, HR
+  
+   Users: Jenny Smith, Terry Smith
+ - Join Windows 10 to the Domain.
+
+- ![It Group User](https://github.com/user-attachments/assets/45053a8c-a686-4214-a6e4-d6bfff482a3c)
+
+![HR Group User](https://github.com/user-attachments/assets/dd93e934-c357-4f4b-a560-d4e020a0739a)
+
+## Part 4: Security Testing and Telemetry Collection
+Steps:
+- Use Crowbar Tool on Kali Linux for brute force attack on Windows PC.
+  
+- Install Atomic Red Team for threat emulation.
+ 
+- Collect Telemetry on Splunk for analysis.
+
+- 
